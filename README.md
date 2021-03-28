@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amy Talbot
+- 👀 I’m interested in healthcare technology
+- 🌱 I’m currently learning data visualization
+- 💞️ I’m looking to collaborate on meaningful ways to use data to aid enhance the quality of patient care
+- 📫 How to reach me: https://www.linkedin.com/in/amy-talbot-56545890/
