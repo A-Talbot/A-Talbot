@@ -3,3 +3,4 @@
 - 🌱  I’m currently learning data engineering and am an analytics enthusiast
 - 💞️  I’m looking to collaborate on meaningful ways to use data to enhance the quality of patient care
 - 📫  How to reach me: https://www.linkedin.com/in/a-talbot
+- :woman_scientist: Fun fact: I'm a registered medical laboratory technologist
